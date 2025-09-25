@@ -102,10 +102,6 @@ C’est la capacité d’un élément à **suggérer son usage**.
 
 ---
 
-## 9. Orthographe et rigueur
 
-- Texte relu et corrigé pour éviter les fautes.  
-- Respect strict des consignes pour éviter les malus.  
-  
 
-[Lien vers mon projet Figma] : https://www.figma.com/design/nrTUZTINhngSABa1KKpMnH/Ihm-corus?node-id=0-1&p=f&t=Q3DWSWjpP7ygbokh-0
+[Lien vers mon projet Figma] : https://www.figma.com/design/nrTUZTINhngSABa1KKpMnH/Ihm-corus?node-id=45-21&t=B4Ie9WuBdAQZ3H3W-0
